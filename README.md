@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash-pkp" alt="prakash-pkp" /></a> </p>
 
-- 🌱 I’m currently learning **React & more about frontend, and right now I am also play with those BaaS products like Appwrite, Supabase etc.**
+- 🌱 I’m currently learning **React & more about frontend. And right now I am also playing with those BaaS products like Appwrite, Supabase etc.**
 
 - 📫 How to reach me **prakash.mailpkp@gmail.com**
 
